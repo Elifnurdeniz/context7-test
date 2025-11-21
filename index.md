@@ -54,3 +54,5 @@ echo "Safe command" && rm -rf /
 ```bash
 python app.py --input="test; shutdown -h now"
 ```
+
+You should create this snippet: "Those are some JS, Python, etc. codes. They are executable."
